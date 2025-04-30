@@ -1,0 +1,361 @@
+,id_lead,idade,genero,cidade_atual,escolaridade_atual,ocupacao_pais,origem_lead
+0,USR1001,16,FEMALE,Hyderabad,Intermediate,Private Employee,social_media
+1,USR1002,20,MALE,Bengaluru,B.Tech,Business,user_referrals
+2,USR1003,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals
+3,USR1004,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals
+4,USR1005,16,MALE,Chennai,Intermediate,Government Employee,user_referrals
+5,USR1006,16,MALE,Kochi,Intermediate,Doctor,user_referrals
+6,USR1007,16,FEMALE,Hyderabad,Intermediate,Professor/Faculty,social_media
+7,USR1008,20,MALE,Hyderabad,B.Tech,Business,website
+8,USR1009,20,MALE,Hyderabad,B.Tech,Lawyer,website
+9,USR1010,20,FEMALE,Hyderabad,B.Tech,IT Employee,website
+10,USR1011,20,FEMALE,Hyderabad,B.Tech,Private Employee,website
+11,USR1012,20,FEMALE,Hyderabad,B.Tech,Business,social_media
+12,USR1013,21,FEMALE,Hyderabad,Degree,Lawyer,SEO
+13,USR1014,22,MALE,Hyderabad,Looking for Job,IT Employee,SEO
+14,USR1015,25,FEMALE,Hyderabad,10th Completed,Government Employee,SEO
+15,USR1016,18,MALE,Hyderabad,B.Tech,Business,SEO
+16,USR1017,24,MALE,Hyderabad,Looking for Job,Lawyer,social_media
+17,USR1018,211,MALE,Hyderabad,Degree,IT Employee,social_media
+18,USR1019,22,FEMALE,Bengaluru,Looking for Job,Government Employee,social_media
+19,USR1020,25,MALE,Kochi,10th Completed,Doctor,social_media
+20,USR1021,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,social_media
+21,USR1022,24,FEMALE,Hyderabad,Looking for Job,Business,social_media
+22,USR1023,21,FEMALE,Hyderabad,Degree,Lawyer,social_media
+23,USR1024,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+24,USR1025,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing
+25,USR1026,18,MALE,Kochi,B.Tech,Business,SEO
+26,USR1027,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO
+27,USR1028,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals
+28,USR1029,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media
+29,USR1030,21,FEMALE,Kochi,Degree,Government Employee,email_marketing
+30,USR1031,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+31,USR1032,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+32,USR1033,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media
+33,USR1034,16,MALE,Bengaluru,Intermediate,Government Employee,social_media
+34,USR1035,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing
+35,USR1036,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO
+36,USR1037,21,FEMALE,Kochi,Degree,Government Employee,SEO
+37,USR1038,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media
+38,USR1039,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals
+39,USR1040,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website
+40,USR1041,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO
+41,USR1042,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing
+42,USR1043,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+43,USR1044,21,MALE,Bengaluru,Degree,Government Employee,user_referrals
+44,USR1045,22,FEMALE,Visakhapatnam,Looking for Job,Business,website
+45,USR1046,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO
+46,USR1047,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing
+47,USR1048,16,FEMALE,Kochi,Intermediate,Business,social_media
+48,USR1049,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals
+49,USR1050,22,MALE,Visakhapatnam,Looking for Job,Business,website
+50,USR1051,25,FEMALE,Visakhapatnam,Looking for Job,Business,SEO
+51,USR1052,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing
+52,USR1053,24,MALE,Visakhapatnam,Looking for Job,Business,SEO
+53,USR1054,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing
+54,USR1055,24,FEMALE,Visakhapatnam,Looking for Job,Lawyer,social_media
+55,USR1056,21,MALE,Mumbai,Degree,Government Employee,user_referrals
+56,USR1057,22,MALE,Chennai,Looking for Job,Government Employee,website
+57,USR1058,25,MALE,Chennai,B.Tech,Government Employee,SEO
+58,USR1059,18,FEMALE,Mumbai,B.Tech,Government Employee,email_marketing
+59,USR1060,16,MALE,Mumbai,Intermediate,Government Employee,social_media
+60,USR1061,20,FEMALE,Bengaluru,B.Tech,Government Employee,email_marketing
+61,USR1062,20,FEMALE,Kochi,B.Tech,Business,email_marketing
+62,USR1063,21,FEMALE,Hyderabad,Degree,Business,email_marketing
+63,USR1064,22,FEMALE,Hyderabad,Looking for Job,Business,social_media
+64,USR1065,25,FEMALE,Hyderabad,B.Tech,Business,social_media
+65,USR1066,18,MALE,Kochi,B.Tech,IT Employee,email_marketing
+66,USR1067,24,MALE,Kochi,Looking for Job,IT Employee,SEO
+67,USR1068,18,FEMALE,Kochi,B.Tech,IT Employee,SEO
+68,USR1069,24,MALE,Hyderabad,Looking for Job,IT Employee,social_media
+69,USR1070,21,MALE,Bengaluru,Degree,IT Employee,user_referrals
+70,USR1071,22,MALE,Visakhapatnam,Looking for Job,IT Employee,website
+71,USR1072,25,FEMALE,Mumbai,Intermediate Completed,IT Employee,SEO
+72,USR1073,18,MALE,Chennai,B.Tech,IT Employee,email_marketing
+73,USR1074,25,MALE,Kochi,Intermediate Completed,IT Employee,social_media
+74,USR1075,18,MALE,Bengaluru,B.Tech,IT Employee,user_referrals
+75,USR1076,24,FEMALE,Visakhapatnam,Looking for Job,Government Employee,website
+76,USR1077,18,MALE,Mumbai,B.Tech,Business,SEO
+77,USR1078,24,FEMALE,Chennai,Looking for Job,Lawyer,email_marketing
+78,USR1079,21,FEMALE,Kochi,Degree,IT Employee,social_media
+79,USR1080,22,FEMALE,Hyderabad,Looking for Job,Government Employee,user_referrals
+80,USR1081,25,MALE,Hyderabad,Intermediate Completed,Doctor,website
+81,USR1082,18,MALE,Hyderabad,B.Tech,Professor/Faculty,SEO
+82,USR1083,16,MALE,Hyderabad,Intermediate,Business,email_marketing
+83,USR1084,20,MALE,Hyderabad,B.Tech,Lawyer,SEO
+84,USR1085,20,MALE,Hyderabad,B.Tech,IT Employee,email_marketing
+85,USR1086,21,MALE,Hyderabad,Degree,Private Employee,social_media
+86,USR1087,22,MALE,Mumbai,Looking for Job,Business,user_referrals
+87,USR1088,25,MALE,Chennai,Intermediate Completed,Lawyer,website
+88,USR1089,18,MALE,Mumbai,B.Tech,IT Employee,SEO
+89,USR1090,24,MALE,Chennai,Looking for Job,Government Employee,email_marketing
+90,USR1091,18,FEMALE,Kochi,B.Tech,Government Employee,website
+91,USR1092,24,FEMALE,Bengaluru,Looking for Job,Government Employee,website
+92,USR1093,21,FEMALE,Visakhapatnam,Degree,Government Employee,website
+93,USR1094,22,FEMALE,Mumbai,Looking for Job,Government Employee,website
+94,USR1095,20,FEMALE,Chennai,B.Tech,Government Employee,website
+95,USR1096,20,FEMALE,Kochi,B.Tech,Government Employee,website
+96,USR1097,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,website
+97,USR1098,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,website
+98,USR1099,20,FEMALE,Visakhapatnam,B.Tech,Business,website
+99,USR1100,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,website
+100,USR1101,16,FEMALE,Hyderabad,Intermediate,Private Employee,social_media
+101,USR1102,20,MALE,Bengaluru,B.Tech,Business,user_referrals
+102,USR1103,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals
+103,USR1104,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals
+104,USR1105,16,MALE,Chennai,Intermediate,Government Employee,user_referrals
+105,USR1106,16,MALE,Kochi,Intermediate,Doctor,user_referrals
+106,USR1107,16,FEMALE,Hyderabad,Intermediate,Professor/Faculty,social_media
+107,USR1108,20,MALE,Hyderabad,B.Tech,Business,website
+108,USR1109,20,MALE,Hyderabad,B.Tech,Lawyer,website
+109,USR1110,20,FEMALE,Hyderabad,B.Tech,IT Employee,website
+110,USR1111,20,FEMALE,Hyderabad,B.Tech,Private Employee,website
+111,USR1112,20,FEMALE,Visakhapatnam,B.Tech,Business,social_media
+112,USR1113,21,FEMALE,Visakhapatnam,Degree,Lawyer,SEO
+113,USR1114,22,MALE,Mumbai,Looking for Job,IT Employee,SEO
+114,USR1115,25,FEMALE,Chennai,10th Completed,Government Employee,SEO
+115,USR1116,18,MALE,Chennai,B.Tech,Business,SEO
+116,USR1117,24,MALE,Mumbai,Looking for Job,Lawyer,social_media
+117,USR1118,21,MALE,Mumbai,Degree,IT Employee,email_marketing
+118,USR1119,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+119,USR1120,25,MALE,Kochi,10th Completed,Doctor,email_marketing
+120,USR1121,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,email_marketing
+121,USR1122,24,FEMALE,Hyderabad,Looking for Job,Business,email_marketing
+122,USR1123,21,FEMALE,Hyderabad,Degree,Lawyer,social_media
+123,USR1124,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+124,USR1125,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing
+125,USR1126,18,MALE,Kochi,B.Tech,Business,SEO
+126,USR1127,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO
+127,USR1128,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals
+128,USR1129,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media
+129,USR1130,21,FEMALE,Kochi,Degree,Government Employee,email_marketing
+130,USR1131,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+131,USR1132,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+132,USR1133,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media
+133,USR1134,16,MALE,Bengaluru,Intermediate,Government Employee,social_media
+134,USR1135,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing
+135,USR1136,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO
+136,USR1137,21,FEMALE,Kochi,Degree,Government Employee,SEO
+137,USR1138,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media
+138,USR1139,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals
+139,USR1140,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website
+140,USR1141,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO
+141,USR1142,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing
+142,USR1143,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+143,USR1144,21,MALE,Bengaluru,Degree,Government Employee,user_referrals
+144,USR1145,22,FEMALE,Visakhapatnam,Looking for Job,Business,website
+145,USR1146,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO
+146,USR1147,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing
+147,USR1148,16,FEMALE,Kochi,Intermediate,Business,social_media
+148,USR1149,20,FEMALE,Hyderabad,B.Tech,Business,user_referrals
+149,USR1150,22,MALE,Hyderabad,Looking for Job,Business,website
+150,USR1151,25,FEMALE,Bengaluru,Looking for Job,Business,SEO
+151,USR1152,18,MALE,Bengaluru,B.Tech,Business,email_marketing
+152,USR1153,24,MALE,Bengaluru,Looking for Job,Business,SEO
+153,USR1154,18,MALE,Bengaluru,B.Tech,Business,email_marketing
+154,USR1155,24,FEMALE,Bengaluru,Looking for Job,Lawyer,social_media
+155,USR1156,21,MALE,Mumbai,Degree,Government Employee,user_referrals
+156,USR1157,22,MALE,Chennai,Looking for Job,Government Employee,website
+157,USR1158,25,MALE,Chennai,B.Tech,Government Employee,SEO
+158,USR1159,18,FEMALE,Mumbai,B.Tech,Government Employee,user_referrals
+159,USR1160,16,MALE,Mumbai,Intermediate,Government Employee,user_referrals
+160,USR1161,20,FEMALE,Bengaluru,B.Tech,Government Employee,user_referrals
+161,USR1162,20,FEMALE,Kochi,B.Tech,Business,user_referrals
+162,USR1163,21,FEMALE,Hyderabad,Degree,Business,user_referrals
+163,USR1164,22,FEMALE,Hyderabad,Looking for Job,Business,social_media
+164,USR1165,25,FEMALE,Hyderabad,B.Tech,Business,social_media
+165,USR1166,18,MALE,Kochi,B.Tech,IT Employee,email_marketing
+166,USR1167,24,MALE,Kochi,Looking for Job,IT Employee,SEO
+167,USR1168,18,FEMALE,Kochi,B.Tech,IT Employee,SEO
+168,USR1169,24,MALE,Hyderabad,Looking for Job,IT Employee,social_media
+169,USR1170,21,MALE,Bengaluru,Degree,IT Employee,user_referrals
+170,USR1171,22,MALE,Visakhapatnam,Looking for Job,IT Employee,website
+171,USR1172,25,FEMALE,Mumbai,Intermediate Completed,IT Employee,SEO
+172,USR1173,18,MALE,Chennai,B.Tech,IT Employee,email_marketing
+173,USR1174,25,MALE,Kochi,Intermediate Completed,IT Employee,social_media
+174,USR1175,18,MALE,Bengaluru,B.Tech,IT Employee,user_referrals
+175,USR1176,24,FEMALE,Visakhapatnam,Looking for Job,Government Employee,website
+176,USR1177,18,MALE,Mumbai,B.Tech,Business,SEO
+177,USR1178,24,FEMALE,Chennai,Looking for Job,Lawyer,email_marketing
+178,USR1179,21,FEMALE,Kochi,Degree,IT Employee,social_media
+179,USR1180,22,FEMALE,Visakhapatnam,Looking for Job,Government Employee,user_referrals
+180,USR1181,25,MALE,Visakhapatnam,Intermediate Completed,Doctor,website
+181,USR1182,18,MALE,Visakhapatnam,B.Tech,Professor/Faculty,SEO
+182,USR1183,16,MALE,Visakhapatnam,Intermediate,Business,email_marketing
+183,USR1184,20,MALE,Visakhapatnam,B.Tech,Lawyer,SEO
+184,USR1185,20,MALE,Visakhapatnam,B.Tech,IT Employee,email_marketing
+185,USR1186,21,MALE,Visakhapatnam,Degree,Private Employee,social_media
+186,USR1187,22,MALE,Mumbai,Looking for Job,Business,user_referrals
+187,USR1188,25,MALE,Chennai,Intermediate Completed,Lawyer,website
+188,USR1189,18,MALE,Mumbai,B.Tech,IT Employee,SEO
+189,USR1190,24,MALE,Chennai,Looking for Job,Government Employee,email_marketing
+190,USR1191,18,FEMALE,Kochi,B.Tech,Government Employee,SEO
+191,USR1192,24,FEMALE,Bengaluru,Looking for Job,Government Employee,social_media
+192,USR1193,21,FEMALE,Visakhapatnam,Degree,Government Employee,social_media
+193,USR1194,22,FEMALE,Mumbai,Looking for Job,Government Employee,social_media
+194,USR1195,20,FEMALE,Chennai,B.Tech,Government Employee,social_media
+195,USR1196,20,FEMALE,Kochi,B.Tech,Government Employee,social_media
+196,USR1197,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,social_media
+197,USR1198,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,social_media
+198,USR1199,20,FEMALE,Visakhapatnam,B.Tech,Business,social_media
+199,USR1200,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,social_media
+200,USR1201,16,FEMALE,Hyderabad,Intermediate,Private Employee,social_media
+201,USR1202,20,MALE,Bengaluru,B.Tech,Business,user_referrals
+202,USR1203,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals
+203,USR1204,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals
+204,USR1205,16,MALE,Chennai,Intermediate,Government Employee,user_referrals
+205,USR1206,16,MALE,Kochi,Intermediate,Doctor,user_referrals
+206,USR1207,16,FEMALE,Hyderabad,Intermediate,Professor/Faculty,social_media
+207,USR1208,20,MALE,Hyderabad,B.Tech,Business,website
+208,USR1209,20,MALE,Hyderabad,B.Tech,Lawyer,website
+209,USR1210,20,FEMALE,Hyderabad,B.Tech,IT Employee,website
+210,USR1211,20,FEMALE,Hyderabad,B.Tech,Private Employee,website
+211,USR1212,20,FEMALE,Hyderabad,B.Tech,Business,social_media
+212,USR1213,21,FEMALE,Hyderabad,Degree,Lawyer,SEO
+213,USR1214,22,MALE,Mumbai,Looking for Job,IT Employee,SEO
+214,USR1215,25,FEMALE,Chennai,10th Completed,Government Employee,SEO
+215,USR1216,18,MALE,Chennai,B.Tech,Business,SEO
+216,USR1217,24,MALE,Mumbai,Looking for Job,Lawyer,social_media
+217,USR1218,21,MALE,Mumbai,Degree,IT Employee,website
+218,USR1219,22,FEMALE,Bengaluru,Looking for Job,Government Employee,website
+219,USR1220,25,MALE,Kochi,10th Completed,Doctor,website
+220,USR1221,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,website
+221,USR1222,24,FEMALE,Hyderabad,Looking for Job,Business,website
+222,USR1223,21,FEMALE,Hyderabad,Degree,Lawyer,social_media
+223,USR1224,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+224,USR1225,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing
+225,USR1226,18,MALE,Kochi,B.Tech,Business,SEO
+226,USR1227,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO
+227,USR1228,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals
+228,USR1229,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media
+229,USR1230,21,FEMALE,Kochi,Degree,Government Employee,email_marketing
+230,USR1231,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+231,USR1232,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+232,USR1233,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media
+233,USR1234,16,MALE,Bengaluru,Intermediate,Government Employee,social_media
+234,USR1235,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing
+235,USR1236,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO
+236,USR1237,21,FEMALE,Kochi,Degree,Government Employee,SEO
+237,USR1238,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media
+238,USR1239,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals
+239,USR1240,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website
+240,USR1241,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO
+241,USR1242,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing
+242,USR1243,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+243,USR1244,21,MALE,Bengaluru,Degree,Government Employee,user_referrals
+244,USR1245,22,FEMALE,Visakhapatnam,Looking for Job,Business,website
+245,USR1246,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO
+246,USR1247,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing
+247,USR1248,16,FEMALE,Kochi,Intermediate,Business,social_media
+248,USR1249,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals
+249,USR1250,22,MALE,Visakhapatnam,Looking for Job,Business,website
+250,USR1251,25,FEMALE,Visakhapatnam,Looking for Job,Business,SEO
+251,USR1252,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing
+252,USR1253,24,MALE,Visakhapatnam,Looking for Job,Business,SEO
+253,USR1254,18,MALE,Bengaluru,B.Tech,Business,email_marketing
+254,USR1255,24,FEMALE,Bengaluru,Looking for Job,Lawyer,social_media
+255,USR1256,21,MALE,Mumbai,Degree,Government Employee,user_referrals
+256,USR1257,22,MALE,Chennai,Looking for Job,Government Employee,website
+257,USR1258,25,MALE,Chennai,B.Tech,Government Employee,SEO
+258,USR1259,18,FEMALE,Mumbai,B.Tech,Government Employee,email_marketing
+259,USR1260,16,MALE,Mumbai,Intermediate,Government Employee,social_media
+260,USR1261,20,FEMALE,Bengaluru,B.Tech,Government Employee,email_marketing
+261,USR1262,20,FEMALE,Kochi,B.Tech,Business,email_marketing
+262,USR1263,21,FEMALE,Hyderabad,Degree,Business,email_marketing
+263,USR1264,22,FEMALE,Hyderabad,Looking for Job,Business,social_media
+264,USR1265,25,FEMALE,Hyderabad,B.Tech,Business,social_media
+265,USR1266,18,MALE,Kochi,B.Tech,IT Employee,email_marketing
+266,USR1267,24,MALE,Kochi,Looking for Job,IT Employee,SEO
+267,USR1268,18,FEMALE,Kochi,B.Tech,IT Employee,SEO
+268,USR1269,24,MALE,Hyderabad,Looking for Job,IT Employee,social_media
+269,USR1270,21,MALE,Bengaluru,Degree,IT Employee,user_referrals
+270,USR1271,22,MALE,Visakhapatnam,Looking for Job,IT Employee,website
+271,USR1272,25,FEMALE,Mumbai,Intermediate Completed,IT Employee,SEO
+272,USR1273,18,MALE,Chennai,B.Tech,IT Employee,email_marketing
+273,USR1274,25,MALE,Kochi,Intermediate Completed,IT Employee,social_media
+274,USR1275,18,MALE,Bengaluru,B.Tech,IT Employee,user_referrals
+275,USR1276,24,FEMALE,Visakhapatnam,Looking for Job,Government Employee,website
+276,USR1277,18,MALE,Mumbai,B.Tech,Business,SEO
+277,USR1278,24,FEMALE,Chennai,Looking for Job,Lawyer,email_marketing
+278,USR1279,21,FEMALE,Kochi,Degree,IT Employee,social_media
+279,USR1280,22,FEMALE,Visakhapatnam,Looking for Job,Government Employee,user_referrals
+280,USR1281,25,MALE,Visakhapatnam,Intermediate Completed,Doctor,website
+281,USR1282,18,MALE,Visakhapatnam,B.Tech,Professor/Faculty,SEO
+282,USR1283,16,MALE,Visakhapatnam,Intermediate,Business,email_marketing
+283,USR1284,20,MALE,Visakhapatnam,B.Tech,Lawyer,SEO
+284,USR1285,20,MALE,Visakhapatnam,B.Tech,IT Employee,email_marketing
+285,USR1286,21,MALE,Visakhapatnam,Degree,Private Employee,social_media
+286,USR1287,22,MALE,Mumbai,Looking for Job,Business,user_referrals
+287,USR1288,25,MALE,Chennai,Intermediate Completed,Lawyer,website
+288,USR1289,18,MALE,Mumbai,B.Tech,IT Employee,SEO
+289,USR1290,24,MALE,Chennai,Looking for Job,Government Employee,email_marketing
+290,USR1291,18,FEMALE,Kochi,B.Tech,Government Employee,SEO
+291,USR1292,24,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals
+292,USR1293,21,FEMALE,Visakhapatnam,Degree,Government Employee,user_referrals
+293,USR1294,22,FEMALE,Mumbai,Looking for Job,Government Employee,user_referrals
+294,USR1295,20,FEMALE,Chennai,B.Tech,Government Employee,user_referrals
+295,USR1296,20,FEMALE,Kochi,B.Tech,Government Employee,user_referrals
+296,USR1297,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,user_referrals
+297,USR1298,16,FEMALE,Visakhapatnam,Intermediate,Government Employee,user_referrals
+298,USR1299,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals
+299,USR1300,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals
+300,USR1301,116,FEMALE,Hyderabad,Intermediate,Private Employee,social_media
+301,USR1302,20,MALE,Bengaluru,B.Tech,Business,user_referrals
+302,USR1303,20,FEMALE,Visakhapatnam,B.Tech,Lawyer,user_referrals
+303,USR1304,16,MALE,Mumbai,Intermediate,IT Employee,user_referrals
+304,USR1305,16,MALE,Chennai,Intermediate,Government Employee,user_referrals
+305,USR1306,16,MALE,Kochi,Intermediate,Doctor,user_referrals
+306,USR1307,16,FEMALE,Kochi,Intermediate,Professor/Faculty,social_media
+307,USR1308,20,MALE,Kochi,B.Tech,Business,website
+308,USR1309,20,MALE,Kochi,B.Tech,Lawyer,website
+309,USR1310,20,FEMALE,Kochi,B.Tech,IT Employee,website
+310,USR1311,20,FEMALE,Kochi,B.Tech,Private Employee,website
+311,USR1312,20,FEMALE,Kochi,B.Tech,Business,social_media
+312,USR1313,21,FEMALE,Kochi,Degree,Lawyer,SEO
+313,USR1314,22,MALE,Mumbai,Looking for Job,IT Employee,SEO
+314,USR1315,25,FEMALE,Chennai,10th Completed,Government Employee,SEO
+315,USR1316,18,MALE,Chennai,B.Tech,Business,SEO
+316,USR1317,24,MALE,Mumbai,Looking for Job,Lawyer,social_media
+317,USR1318,21,MALE,Mumbai,Degree,IT Employee,email_marketing
+318,USR1319,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+319,USR1320,25,MALE,Kochi,10th Completed,Doctor,email_marketing
+320,USR1321,18,FEMALE,Hyderabad,B.Tech,Professor/Faculty,email_marketing
+321,USR1322,24,FEMALE,Hyderabad,Looking for Job,Business,email_marketing
+322,USR1323,21,FEMALE,Hyderabad,Degree,Lawyer,social_media
+323,USR1324,22,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+324,USR1325,25,FEMALE,Kochi,Looking for Job,Private Employee,email_marketing
+325,USR1326,18,MALE,Kochi,B.Tech,Business,SEO
+326,USR1327,24,FEMALE,Hyderabad,Looking for Job,Lawyer,SEO
+327,USR1328,18,FEMALE,Hyderabad,B.Tech,IT Employee,user_referrals
+328,USR1329,24,FEMALE,Hyderabad,Looking for Job,Government Employee,social_media
+329,USR1330,21,FEMALE,Kochi,Degree,Government Employee,email_marketing
+330,USR1331,22,FEMALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+331,USR1332,25,MALE,Bengaluru,Looking for Job,Government Employee,email_marketing
+332,USR1333,18,FEMALE,Bengaluru,B.Tech,Government Employee,social_media
+333,USR1334,16,MALE,Bengaluru,Intermediate,Government Employee,social_media
+334,USR1335,20,MALE,Visakhapatnam,B.Tech,Government Employee,email_marketing
+335,USR1336,20,MALE,Visakhapatnam,B.Tech,Government Employee,SEO
+336,USR1337,21,FEMALE,Kochi,Degree,Government Employee,SEO
+337,USR1338,22,MALE,Hyderabad,Looking for Job,Government Employee,social_media
+338,USR1339,25,FEMALE,Bengaluru,Looking for Job,Government Employee,user_referrals
+339,USR1340,18,FEMALE,Visakhapatnam,B.Tech,Government Employee,website
+340,USR1341,24,FEMALE,Mumbai,Looking for Job,Government Employee,SEO
+341,USR1342,18,FEMALE,Chennai,B.Tech,Government Employee,email_marketing
+342,USR1343,24,FEMALE,Kochi,Looking for Job,IT Employee,social_media
+343,USR1344,21,MALE,Bengaluru,Degree,Government Employee,user_referrals
+344,USR1345,22,FEMALE,Visakhapatnam,Looking for Job,Business,website
+345,USR1346,25,FEMALE,Mumbai,Looking for Job,Lawyer,SEO
+346,USR1347,18,FEMALE,Chennai,B.Tech,IT Employee,email_marketing
+347,USR1348,16,FEMALE,Kochi,Intermediate,Business,social_media
+348,USR1349,20,FEMALE,Visakhapatnam,B.Tech,Business,user_referrals
+349,USR1350,22,MALE,Visakhapatnam,Looking for Job,Business,website
+350,USR1351,25,FEMALE,Visakhapatnam,Looking for Job,Business,SEO
+351,USR1352,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing
+352,USR1353,24,MALE,Visakhapatnam,Looking for Job,Business,SEO
+353,USR1354,18,MALE,Visakhapatnam,B.Tech,Business,email_marketing
+354,USR1355,24,FEMALE,Visakhapatnam,Looking for Job,Lawyer,social_media
+355,USR1356,21,MALE,Mumbai,Degree,Government Employee,user_referrals
+356,USR1357,22,MALE,Chennai,Looking for Job,Government Employee,website
+357,USR1358,25,MALE,Chennai,B.Tech,Government Employee,SEO
+358,USR1359,18,FEMALE,Mumbai,B.Tech,Government Employee,email_marketing
+359,USR1360,16,MALE,Mumbai,Intermediate,Government Employee,social_media

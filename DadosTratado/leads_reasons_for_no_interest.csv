@@ -1,0 +1,295 @@
+,id_lead,motivo_nao_demo,motivo_nao_consideracao,motivo_nao_conversao
+0,USR1001,No time for student,sem_info,sem_info
+1,USR1003,sem_info,No time for student,sem_info
+2,USR1004,sem_info,Wants offline classes,sem_info
+3,USR1005,sem_info,Can't afford,sem_info
+4,USR1006,sem_info,Student not interested in domain,sem_info
+5,USR1008,sem_info,Will join in final year,sem_info
+6,USR1009,sem_info,Student not interested in domain,sem_info
+7,USR1010,sem_info,Will join in final year,sem_info
+8,USR1014,sem_info,Wants offline classes,sem_info
+9,USR1015,sem_info,Wants offline classes,sem_info
+10,USR1016,sem_info,Can't afford,sem_info
+11,USR1018,sem_info,Can't afford,sem_info
+12,USR1019,sem_info,Can't afford,sem_info
+13,USR1020,sem_info,Wants offline classes,sem_info
+14,USR1021,sem_info,Student not interested in domain,sem_info
+15,USR1024,sem_info,Can't afford,sem_info
+16,USR1026,sem_info,No time for student,sem_info
+17,USR1027,sem_info,sem_info,Can't afford
+18,USR1028,sem_info,Wants offline classes,sem_info
+19,USR1029,sem_info,Can't afford,sem_info
+20,USR1030,sem_info,Student not interested in domain,sem_info
+21,USR1034,sem_info,Can't afford,sem_info
+22,USR1035,sem_info,No time for student,sem_info
+23,USR1036,sem_info,Student not interested in domain,sem_info
+24,USR1038,sem_info,Can't afford,sem_info
+25,USR1039,sem_info,Can't afford,sem_info
+26,USR1040,sem_info,Wants offline classes,sem_info
+27,USR1041,sem_info,Can't afford,sem_info
+28,USR1043,sem_info,Wants offline classes,sem_info
+29,USR1044,sem_info,Can't afford,sem_info
+30,USR1045,sem_info,Can't afford,sem_info
+31,USR1046,sem_info,Can't afford,sem_info
+32,USR1048,Student not interested in domain,sem_info,sem_info
+33,USR1049,No time for student,sem_info,sem_info
+34,USR1050,sem_info,Can't afford,sem_info
+35,USR1054,Wants offline classes,sem_info,sem_info
+36,USR1055,sem_info,Wants offline classes,sem_info
+37,USR1056,Can't afford,sem_info,sem_info
+38,USR1058,sem_info,Wants offline classes,sem_info
+39,USR1059,Student not interested in domain,sem_info,sem_info
+40,USR1060,No time for student,sem_info,sem_info
+41,USR1061,Wants offline classes,sem_info,sem_info
+42,USR1064,Can't afford,sem_info,sem_info
+43,USR1065,sem_info,sem_info,Can't afford
+44,USR1066,Student not interested in domain,sem_info,sem_info
+45,USR1067,sem_info,sem_info,Can't afford
+46,USR1068,No time for student,sem_info,sem_info
+47,USR1069,Can't afford,sem_info,sem_info
+48,USR1070,sem_info,Can't afford,sem_info
+49,USR1071,sem_info,sem_info,Can't afford
+50,USR1074,Wants offline classes,sem_info,sem_info
+51,USR1075,sem_info,Student not interested in domain,sem_info
+52,USR1076,Wants offline classes,sem_info,sem_info
+53,USR1077,sem_info,sem_info,Can't afford
+54,USR1078,sem_info,Can't afford,sem_info
+55,USR1079,Wants offline classes,sem_info,sem_info
+56,USR1080,Wants offline classes,sem_info,sem_info
+57,USR1081,Wants offline classes,sem_info,sem_info
+58,USR1082,sem_info,sem_info,Will join in final year
+59,USR1083,sem_info,Wants offline classes,sem_info
+60,USR1084,Can't afford,sem_info,sem_info
+61,USR1085,Student not interested in domain,sem_info,sem_info
+62,USR1086,No time for student,sem_info,sem_info
+63,USR1087,sem_info,sem_info,Will join in final year
+64,USR1088,Wants offline classes,sem_info,sem_info
+65,USR1089,Student not interested in domain,sem_info,sem_info
+66,USR1090,sem_info,Wants offline classes,sem_info
+67,USR1091,sem_info,sem_info,Will join in final year
+68,USR1094,Wants offline classes,sem_info,sem_info
+69,USR1095,sem_info,Can't afford,sem_info
+70,USR1096,No time for student,sem_info,sem_info
+71,USR1097,sem_info,sem_info,Will join in final year
+72,USR1098,sem_info,Student not interested in domain,sem_info
+73,USR1099,Wants offline classes,sem_info,sem_info
+74,USR1100,Can't afford,sem_info,sem_info
+75,USR1101,Student not interested in domain,sem_info,sem_info
+76,USR1104,No time for student,sem_info,sem_info
+77,USR1105,sem_info,sem_info,Will join in final year
+78,USR1106,Wants offline classes,sem_info,sem_info
+79,USR1107,sem_info,sem_info,Will join in final year
+80,USR1108,Can't afford,sem_info,sem_info
+81,USR1109,Student not interested in domain,sem_info,sem_info
+82,USR1110,sem_info,No time for student,sem_info
+83,USR1111,sem_info,sem_info,Will join in final year
+84,USR1114,Wants offline classes,sem_info,sem_info
+85,USR1115,sem_info,Can't afford,sem_info
+86,USR1117,sem_info,sem_info,No time for student
+87,USR1118,sem_info,Wants offline classes,sem_info
+88,USR1119,Can't afford,sem_info,sem_info
+89,USR1120,Wants offline classes,sem_info,sem_info
+90,USR1121,No time for student,sem_info,sem_info
+91,USR1122,sem_info,sem_info,No time for student
+92,USR1123,sem_info,Can't afford,sem_info
+93,USR1124,Can't afford,sem_info,sem_info
+94,USR1125,Can't afford,sem_info,sem_info
+95,USR1126,Student not interested in domain,sem_info,sem_info
+96,USR1127,sem_info,sem_info,No time for student
+97,USR1128,No time for student,sem_info,sem_info
+98,USR1129,Can't afford,sem_info,sem_info
+99,USR1130,sem_info,Student not interested in domain,sem_info
+100,USR1131,sem_info,sem_info,No time for student
+101,USR1134,Wants offline classes,sem_info,sem_info
+102,USR1135,sem_info,No time for student,sem_info
+103,USR1136,Can't afford,sem_info,sem_info
+104,USR1137,sem_info,sem_info,No time for student
+105,USR1138,sem_info,Wants offline classes,sem_info
+106,USR1139,Can't afford,sem_info,sem_info
+107,USR1140,Student not interested in domain,sem_info,sem_info
+108,USR1141,Can't afford,sem_info,sem_info
+109,USR1144,No time for student,sem_info,sem_info
+110,USR1145,sem_info,sem_info,Can't afford
+111,USR1146,Can't afford,sem_info,sem_info
+112,USR1147,sem_info,sem_info,Can't afford
+113,USR1148,Wants offline classes,sem_info,sem_info
+114,USR1149,Can't afford,sem_info,sem_info
+115,USR1150,sem_info,Can't afford,sem_info
+116,USR1151,sem_info,sem_info,Can't afford
+117,USR1154,Student not interested in domain,sem_info,sem_info
+118,USR1155,sem_info,Wants offline classes,sem_info
+119,USR1156,No time for student,sem_info,sem_info
+120,USR1157,sem_info,sem_info,Can't afford
+121,USR1158,sem_info,Wants offline classes,sem_info
+122,USR1159,Student not interested in domain,sem_info,sem_info
+123,USR1160,No time for student,sem_info,sem_info
+124,USR1161,Wants offline classes,sem_info,sem_info
+125,USR1162,sem_info,sem_info,Can't afford
+126,USR1163,sem_info,Can't afford,sem_info
+127,USR1164,Can't afford,sem_info,sem_info
+128,USR1165,Can't afford,sem_info,sem_info
+129,USR1166,Student not interested in domain,sem_info,sem_info
+130,USR1167,sem_info,sem_info,Can't afford
+131,USR1168,No time for student,sem_info,sem_info
+132,USR1169,Can't afford,sem_info,sem_info
+133,USR1170,sem_info,Student not interested in domain,sem_info
+134,USR1171,sem_info,sem_info,Can't afford
+135,USR1174,Wants offline classes,sem_info,sem_info
+136,USR1175,sem_info,Wants offline classes,sem_info
+137,USR1176,Wants offline classes,sem_info,sem_info
+138,USR1177,sem_info,sem_info,Can't afford
+139,USR1178,sem_info,Can't afford,sem_info
+140,USR1179,Wants offline classes,sem_info,sem_info
+141,USR1180,Wants offline classes,sem_info,sem_info
+142,USR1181,Wants offline classes,sem_info,sem_info
+143,USR1184,Can't afford,sem_info,sem_info
+144,USR1185,sem_info,sem_info,Student not interested in domain
+145,USR1186,No time for student,sem_info,sem_info
+146,USR1187,sem_info,sem_info,Student not interested in domain
+147,USR1188,Wants offline classes,sem_info,sem_info
+148,USR1189,Student not interested in domain,sem_info,sem_info
+149,USR1190,sem_info,Can't afford,sem_info
+150,USR1191,sem_info,sem_info,Student not interested in domain
+151,USR1194,Wants offline classes,sem_info,sem_info
+152,USR1195,sem_info,Can't afford,sem_info
+153,USR1196,No time for student,sem_info,sem_info
+154,USR1197,sem_info,sem_info,Student not interested in domain
+155,USR1198,sem_info,Can't afford,sem_info
+156,USR1199,Wants offline classes,sem_info,sem_info
+157,USR1200,Can't afford,sem_info,sem_info
+158,USR1201,Student not interested in domain,sem_info,sem_info
+159,USR1202,sem_info,sem_info,Student not interested in domain
+160,USR1203,sem_info,Student not interested in domain,sem_info
+161,USR1204,Wants offline classes,sem_info,sem_info
+162,USR1205,Can't afford,sem_info,sem_info
+163,USR1206,Student not interested in domain,sem_info,sem_info
+164,USR1207,sem_info,sem_info,Student not interested in domain
+165,USR1208,No time for student,sem_info,sem_info
+166,USR1209,Wants offline classes,sem_info,sem_info
+167,USR1210,sem_info,Student not interested in domain,sem_info
+168,USR1211,sem_info,sem_info,Student not interested in domain
+169,USR1214,Can't afford,sem_info,sem_info
+170,USR1215,sem_info,Can't afford,sem_info
+171,USR1216,Can't afford,sem_info,sem_info
+172,USR1217,sem_info,sem_info,Student not interested in domain
+173,USR1218,sem_info,Wants offline classes,sem_info
+174,USR1219,Wants offline classes,sem_info,sem_info
+175,USR1220,Can't afford,sem_info,sem_info
+176,USR1221,Student not interested in domain,sem_info,sem_info
+177,USR1224,Can't afford,sem_info,sem_info
+178,USR1225,sem_info,sem_info,Can't afford
+179,USR1226,No time for student,sem_info,sem_info
+180,USR1227,sem_info,sem_info,Can't afford
+181,USR1228,Student not interested in domain,sem_info,sem_info
+182,USR1229,Can't afford,sem_info,sem_info
+183,USR1230,sem_info,Can't afford,sem_info
+184,USR1231,sem_info,sem_info,Can't afford
+185,USR1234,No time for student,sem_info,sem_info
+186,USR1235,sem_info,Student not interested in domain,sem_info
+187,USR1236,Wants offline classes,sem_info,sem_info
+188,USR1237,sem_info,sem_info,Can't afford
+189,USR1238,sem_info,Can't afford,sem_info
+190,USR1239,Can't afford,sem_info,sem_info
+191,USR1240,Can't afford,sem_info,sem_info
+192,USR1241,Can't afford,sem_info,sem_info
+193,USR1242,sem_info,sem_info,Can't afford
+194,USR1243,sem_info,Can't afford,sem_info
+195,USR1244,Student not interested in domain,sem_info,sem_info
+196,USR1245,Can't afford,sem_info,sem_info
+197,USR1246,Can't afford,sem_info,sem_info
+198,USR1247,sem_info,sem_info,Can't afford
+199,USR1248,Wants offline classes,sem_info,sem_info
+200,USR1249,Can't afford,sem_info,sem_info
+201,USR1250,sem_info,Can't afford,sem_info
+202,USR1251,sem_info,sem_info,Student not interested in domain
+203,USR1254,Student not interested in domain,sem_info,sem_info
+204,USR1255,sem_info,Wants offline classes,sem_info
+205,USR1256,No time for student,sem_info,sem_info
+206,USR1257,sem_info,sem_info,Student not interested in domain
+207,USR1258,sem_info,Wants offline classes,sem_info
+208,USR1259,Wants offline classes,sem_info,sem_info
+209,USR1260,Can't afford,sem_info,sem_info
+210,USR1261,Student not interested in domain,sem_info,sem_info
+211,USR1264,Wants offline classes,sem_info,sem_info
+212,USR1265,sem_info,sem_info,Wants offline classes
+213,USR1266,No time for student,sem_info,sem_info
+214,USR1267,sem_info,sem_info,Wants offline classes
+215,USR1268,Wants offline classes,sem_info,sem_info
+216,USR1269,Wants offline classes,sem_info,sem_info
+217,USR1270,sem_info,Can't afford,sem_info
+218,USR1271,sem_info,sem_info,Wants offline classes
+219,USR1274,Wants offline classes,sem_info,sem_info
+220,USR1275,sem_info,Student not interested in domain,sem_info
+221,USR1277,sem_info,sem_info,Wants offline classes
+222,USR1278,sem_info,Wants offline classes,sem_info
+223,USR1279,Can't afford,sem_info,sem_info
+224,USR1280,Wants offline classes,sem_info,sem_info
+225,USR1281,Wants offline classes,sem_info,sem_info
+226,USR1282,sem_info,sem_info,Wants offline classes
+227,USR1283,sem_info,No time for student,sem_info
+228,USR1284,Student not interested in domain,sem_info,sem_info
+229,USR1285,No time for student,sem_info,sem_info
+230,USR1286,Wants offline classes,sem_info,sem_info
+231,USR1287,sem_info,sem_info,Wants offline classes
+232,USR1288,Wants offline classes,sem_info,sem_info
+233,USR1289,Can't afford,sem_info,sem_info
+234,USR1290,sem_info,Wants offline classes,sem_info
+235,USR1291,sem_info,sem_info,Wants offline classes
+236,USR1294,Wants offline classes,sem_info,sem_info
+237,USR1295,sem_info,Wants offline classes,sem_info
+238,USR1296,Student not interested in domain,sem_info,sem_info
+239,USR1298,sem_info,Can't afford,sem_info
+240,USR1299,No time for student,sem_info,sem_info
+241,USR1300,Student not interested in domain,sem_info,sem_info
+242,USR1301,No time for student,sem_info,sem_info
+243,USR1304,Wants offline classes,sem_info,sem_info
+244,USR1305,sem_info,sem_info,Wants offline classes
+245,USR1306,Student not interested in domain,sem_info,sem_info
+246,USR1308,Wants offline classes,sem_info,sem_info
+247,USR1309,Can't afford,sem_info,sem_info
+248,USR1310,sem_info,Student not interested in domain,sem_info
+249,USR1315,sem_info,Wants offline classes,sem_info
+250,USR1316,Student not interested in domain,sem_info,sem_info
+251,USR1318,sem_info,Wants offline classes,sem_info
+252,USR1319,sem_info,Wants offline classes,sem_info
+253,USR1320,Wants offline classes,sem_info,sem_info
+254,USR1321,No time for student,sem_info,sem_info
+255,USR1322,Can't afford,sem_info,sem_info
+256,USR1323,No time for student,sem_info,sem_info
+257,USR1324,Can't afford,sem_info,sem_info
+258,USR1325,Can't afford,sem_info,sem_info
+259,USR1326,Wants offline classes,sem_info,sem_info
+260,USR1327,Can't afford,sem_info,sem_info
+261,USR1328,Can't afford,sem_info,sem_info
+262,USR1329,Can't afford,sem_info,sem_info
+263,USR1330,Student not interested in domain,sem_info,sem_info
+264,USR1331,Wants offline classes,sem_info,sem_info
+265,USR1332,Wants offline classes,sem_info,sem_info
+266,USR1333,No time for student,sem_info,sem_info
+267,USR1334,Wants offline classes,sem_info,sem_info
+268,USR1335,Wants offline classes,sem_info,sem_info
+269,USR1336,Can't afford,sem_info,sem_info
+270,USR1337,Student not interested in domain,sem_info,sem_info
+271,USR1338,Wants offline classes,sem_info,sem_info
+272,USR1339,Wants offline classes,sem_info,sem_info
+273,USR1340,Wants offline classes,sem_info,sem_info
+274,USR1341,Wants offline classes,sem_info,sem_info
+275,USR1342,Can't afford,sem_info,sem_info
+276,USR1343,sem_info,sem_info,Wants offline classes
+277,USR1344,Student not interested in domain,sem_info,sem_info
+278,USR1345,Wants offline classes,sem_info,sem_info
+279,USR1346,Wants offline classes,sem_info,sem_info
+280,USR1347,No time for student,sem_info,sem_info
+281,USR1348,sem_info,sem_info,Wants offline classes
+282,USR1349,Wants offline classes,sem_info,sem_info
+283,USR1350,Cannot afford,sem_info,sem_info
+284,USR1351,Cannot afford,sem_info,sem_info
+285,USR1352,Wants offline classes,sem_info,sem_info
+286,USR1353,Will join in final year,sem_info,sem_info
+287,USR1354,Will join in final year,sem_info,sem_info
+288,USR1355,Will join in final year,sem_info,sem_info
+289,USR1356,Cannot afford,sem_info,sem_info
+290,USR1357,Cannot afford,sem_info,sem_info
+291,USR1358,Wants offline classes,sem_info,sem_info
+292,USR1359,Will join in final year,sem_info,sem_info
+293,USR1360,Will join in final year,sem_info,sem_info

@@ -58,7 +58,7 @@ O dashboard mostra:
 - Perfil demográfico dos leads
 - Principais motivos de desinteresse
 
-> O painel foi exportado em PDF e está disponível na pasta `/dashboard/`.
+> O painel foi exportado em PDF e está disponível na pasta `/DashBoards/`.
 
 ---
 
